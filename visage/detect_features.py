@@ -34,7 +34,7 @@ class DetectLandmarks(object):
         if not os.path.isfile(PREDICTOR_PATH):
             try:
                 print ('Predictor not found. Downloading...this may take a while...')
-                url = 'https://github.com/hriddhidey/visage/blob/master/visage/shape_predictor_68_face_landmarks.dat?raw=true'
+                url = 'https://github.com/nyesha18/visage/blob/master/visage/haarcascade_frontalface_default.xml'
                 def dl_progress(count, block_size, total_size):
                     """ Show download progress bar. """
                     percent = int(count*block_size*100/total_size)
