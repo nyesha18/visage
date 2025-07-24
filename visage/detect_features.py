@@ -1,10 +1,3 @@
-"""
-Created on Mon Mar 20 12:28:21 2017
-@author: Hriddhi Dey
-
-This module contains the DetectLandmark class.
-"""
-
 import os.path
 import sys
 from urllib.request import urlretrieve
