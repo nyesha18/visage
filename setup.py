@@ -10,8 +10,7 @@ setup(
     version='0.15.2',
     description='Add virtual makeup to an image of a face.',
    
-    url='https://github.com/hriddhidey/visage.git',
-    download_url='https://github.com/hriddhidey/visage/archive/0.15.2.tar.gz',
+    url='https://github.com/nyesha18/makeup.git',
     install_requires=[
         'opencv-python',
         'scikit-image',
