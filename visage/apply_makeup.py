@@ -1,12 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 20 12:28:21 2017
-@author: Hriddhi Dey
-
-This module contains the ApplyMakeup class.
-"""
-
 import itertools
 import scipy.interpolate
 import cv2
